@@ -1,0 +1,23 @@
+/* Empty. Add your own CSS if you like */
+/*html, body, .map {
+  height: 100%;
+  margin: 0px;
+        padding: 0px
+}
+.scroll {
+  height: 100%;
+}
+.labels {
+  color: black;
+
+  font-family: "Lucida Grande", "Arial", sans-serif;
+  font-size: 20px;
+  text-align: center;
+  width: 80px;
+  white-space: nowrap;
+}*/
+ html, body, #map-canvas {
+        height: 100%;
+        margin: 0px;
+        padding: 0px
+      }
